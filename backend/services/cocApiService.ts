@@ -14,14 +14,26 @@ const axiosInstance = axios.create({
     }
 })
 
+function handleApiError(error: any) {
+    if (error.response) {
+        const { status } = error.response;
+        if (status === 404) {
+            return null;
+        }
+        else if (status === 403) {
+            throw new Error('Unauthorized access to the API');
+        }
+    }
+    throw error;
+}
+
 export async function getClanInfo(clanTag: string) {
     try {
         const response = await axiosInstance.get(`/clans/${encodeURIComponent(clanTag)}`);
         return response.data;
     }
-    catch (error) {
-        console.error('Error fetching clan info:', error);
-        throw error;
+    catch (error: any) {
+        return handleApiError(error);
     }
 }
 
@@ -30,9 +42,8 @@ export async function getClanMembers(clanTag: string) {
         const response = await axiosInstance.get(`/clans/${encodeURIComponent(clanTag)}/members`);
         return response.data.items;
     }
-    catch (error) {
-        console.error('Error fetching clan members:', error);
-        throw error;
+    catch (error: any) {
+        return handleApiError(error);
     }
 }
 
