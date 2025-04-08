@@ -1,6 +1,6 @@
 import express from 'express';
 import dotenv from 'dotenv';
-import { getClanInfo } from './services/cocApiService';
+import { getClanInfo,getClanMembers } from './services/cocApiService';
 
 dotenv.config();
 
@@ -31,7 +31,26 @@ app.get('/api/clans/:clanTag', async (req, res) => {
 });
 
 app.get('/api/clans/:clanTag/members', async (req, res) => {
-    // TODO
+    const clanTag = req.params.clanTag;
+
+    if (!clanTag) {
+        res.status(400).json({ error: 'Clan tag is required' });
+        return;
+    }
+
+    // Validate clan tag format
+    if (!clanTag.startsWith('#') || clanTag.length <= 1) {
+        res.status(400).json({ error: 'Invalid clan tag format' });
+        return;
+    }
+
+    try {
+        const clanMembers = await getClanMembers(clanTag);
+        res.json(clanMembers);
+    }
+    catch (error) {
+        res.status(500).json({ error: 'Failed to fetch clan members' });
+    }
 });
 
 app.listen(PORT, () => {

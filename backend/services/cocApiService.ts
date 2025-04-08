@@ -26,6 +26,13 @@ export async function getClanInfo(clanTag: string) {
 }
 
 export async function getClanMembers(clanTag: string) {
-    // TODO
+    try {
+        const response = await axiosInstance.get(`/clans/${encodeURIComponent(clanTag)}/members`);
+        return response.data.items;
+    }
+    catch (error) {
+        console.error('Error fetching clan members:', error);
+        throw error;
+    }
 }
 
