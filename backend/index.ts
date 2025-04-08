@@ -8,14 +8,11 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.get('/api/clans/:clanTag', async (req, res) => {
-    const { clanTag } = req.params;
-    try {
-        const clanInfo = await getClanInfo(clanTag);
-        res.json(clanInfo);
-    } catch (error) {
-        console.error('Error fetching clan info:', error);
-        res.status(500).json({ error: 'Failed to fetch clan info' });
-    }
+    // TODO
+});
+
+app.get('/api/clans/:clanTag/members', async (req, res) => {
+    // TODO
 });
 
 app.listen(PORT, () => {
