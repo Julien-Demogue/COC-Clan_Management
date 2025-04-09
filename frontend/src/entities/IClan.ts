@@ -33,5 +33,9 @@ export interface IClan {
     members: number;
     description: string;
     clanCapital: IClanCapital;
-    badgeUrls: string[];
+    badgeUrls: {
+        small: string;
+        large: string;
+        medium: string;
+    };
 }

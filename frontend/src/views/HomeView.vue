@@ -14,10 +14,11 @@
 
 <script setup lang="ts">
 import { ref } from 'vue';
-import { fetchClanInfo, fetchClanMembers } from '@/services/apiService';
+import { fetchClanInfo } from '@/services/apiService';
 import Loading from '@/components/Loading.vue';
 import { IClan } from '@/entities/IClan';
 import router from '@/router';
+import { saveToStorage } from '@/services/storageService';
 
 const clanTag = ref('');
 const errorMessage = ref('');
@@ -35,23 +36,7 @@ async function getClanInfo(clanTag: string): Promise<boolean> {
 
   errorMessage.value = '';
   const clanInfo = result.data as IClan;
-  console.log('Clan name:', clanInfo.name);
-  return true;
-}
-
-async function getClanMembers(clanTag: string): Promise<boolean> {
-  isLoading.value = true;
-  const result = await fetchClanMembers(clanTag);
-  isLoading.value = false;
-
-  if (!result.success) {
-    errorMessage.value = result.error || 'Unknown error';
-    return false;
-  }
-
-  errorMessage.value = '';
-  const clanMembers = result.data;
-  console.log('Clan Members:', clanMembers?.length);
+  saveToStorage('clanData', clanInfo);
   return true;
 }
 
@@ -61,14 +46,10 @@ async function onValidateInput() {
     return;
   }
 
-  const isClanFetchSuccessful = await getClanInfo(clanTag.value);
+  const success = await getClanInfo(clanTag.value);
 
-  if (isClanFetchSuccessful) {
-    const isMembersFetchSuccessful = await getClanMembers(clanTag.value);
-
-    if (isMembersFetchSuccessful) {
-      router.push("/dashboard")
-    }
+  if (success) {
+    router.push("/dashboard")
   }
 }
 </script>

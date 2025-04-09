@@ -1,5 +1,9 @@
 export interface ILeague { 
     name: string;
     id: number;
-    iconUrls: string[];
+    iconUrls: {
+        small: string;
+        tiny: string;
+        medium: string;
+    };
 }
