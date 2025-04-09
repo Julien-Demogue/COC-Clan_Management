@@ -13,7 +13,4 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
-  define: {
-    'process.env.COC_API_TOKEN': JSON.stringify(process.env.COC_API_TOKEN),
-  },
 })

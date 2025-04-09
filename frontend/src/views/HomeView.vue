@@ -17,6 +17,7 @@ import { ref } from 'vue';
 import { fetchClanInfo, fetchClanMembers } from '@/services/apiService';
 import Loading from '@/components/Loading.vue';
 import { IClan } from '@/entities/IClan';
+import router from '@/router';
 
 const clanTag = ref('');
 const errorMessage = ref('');
@@ -60,10 +61,14 @@ async function onValidateInput() {
     return;
   }
 
-  const isFetchSuccessful = await getClanInfo(clanTag.value);
+  const isClanFetchSuccessful = await getClanInfo(clanTag.value);
 
-  if (isFetchSuccessful) {
-    await getClanMembers(clanTag.value);
+  if (isClanFetchSuccessful) {
+    const isMembersFetchSuccessful = await getClanMembers(clanTag.value);
+
+    if (isMembersFetchSuccessful) {
+      router.push("/dashboard")
+    }
   }
 }
 </script>
