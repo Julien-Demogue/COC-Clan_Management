@@ -8,18 +8,23 @@
     </div>
     <p class="mt-4 text-red font-semibold text-xl">{{ errorMessage }}</p>
   </div>
+  <Loading v-if="isLoading" />
 </template>
 
 
 <script setup lang="ts">
 import { ref } from 'vue';
 import { fetchClanInfo, fetchClanMembers } from '@/services/apiService';
+import Loading from '@/components/Loading.vue';
 
 const clanTag = ref('');
 const errorMessage = ref('');
+const isLoading = ref(false);
 
 async function getClanInfo(clanTag: string): Promise<boolean> {
+  isLoading.value = true;
   const result = await fetchClanInfo(clanTag);
+  isLoading.value = false;
 
   if (!result.success) {
     errorMessage.value = result.error || 'Unknown error';
@@ -33,7 +38,9 @@ async function getClanInfo(clanTag: string): Promise<boolean> {
 }
 
 async function getClanMembers(clanTag: string): Promise<boolean> {
+  isLoading.value = true;
   const result = await fetchClanMembers(clanTag);
+  isLoading.value = false;
 
   if (!result.success) {
     errorMessage.value = result.error || 'Unknown error';
