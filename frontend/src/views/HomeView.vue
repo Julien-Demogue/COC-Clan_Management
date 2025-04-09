@@ -16,6 +16,7 @@
 import { ref } from 'vue';
 import { fetchClanInfo, fetchClanMembers } from '@/services/apiService';
 import Loading from '@/components/Loading.vue';
+import { IClan } from '@/entities/IClan';
 
 const clanTag = ref('');
 const errorMessage = ref('');
@@ -32,8 +33,8 @@ async function getClanInfo(clanTag: string): Promise<boolean> {
   }
 
   errorMessage.value = '';
-  const clanInfo = result.data;
-  console.log('Clan Info:', clanInfo);
+  const clanInfo = result.data as IClan;
+  console.log('Clan name:', clanInfo.name);
   return true;
 }
 
@@ -49,7 +50,7 @@ async function getClanMembers(clanTag: string): Promise<boolean> {
 
   errorMessage.value = '';
   const clanMembers = result.data;
-  console.log('Clan Members:', clanMembers);
+  console.log('Clan Members:', clanMembers?.length);
   return true;
 }
 
