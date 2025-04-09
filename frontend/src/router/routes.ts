@@ -6,22 +6,22 @@ import WarView from '@/views/WarView.vue';
 export const routes = [
   {
     path: '/',
-    name: 'home',
+    name: 'Home',
     component: HomeView,
   },
   {
     path: '/dashboard',
-    name: 'dashboard',
+    name: 'Dashboard',
     component: DashboardView,
   },
   {
     path: '/members',
-    name: 'members',
+    name: 'Members',
     component: MembersView,
   },
   {
     path: '/war',
-    name: 'war',
+    name: 'War',
     component: WarView,
   },
 ];
