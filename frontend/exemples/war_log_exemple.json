@@ -1,0 +1,3892 @@
+[
+  {
+    "result": "tie",
+    "endTime": "20250409T122621.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 1,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png"
+      },
+      "clanLevel": 20,
+      "attacks": 94,
+      "stars": 159,
+      "destructionPercentage": 450.2,
+      "expEarned": 0
+    },
+    "opponent": {
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      },
+      "clanLevel": 0,
+      "stars": 238,
+      "destructionPercentage": 0
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20250331T205307.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png"
+      },
+      "clanLevel": 20,
+      "attacks": 27,
+      "stars": 46,
+      "destructionPercentage": 81.85,
+      "expEarned": 259
+    },
+    "opponent": {
+      "tag": "#2QUP8C8C2",
+      "name": "DeathAdd1rs",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ABgAuu0uHBKSy8fe0izliZW1b2ZeIKLpoL-o_SVEdss.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ABgAuu0uHBKSy8fe0izliZW1b2ZeIKLpoL-o_SVEdss.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ABgAuu0uHBKSy8fe0izliZW1b2ZeIKLpoL-o_SVEdss.png"
+      },
+      "clanLevel": 20,
+      "stars": 54,
+      "destructionPercentage": 97
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20250328T171445.000Z",
+    "teamSize": 5,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png"
+      },
+      "clanLevel": 20,
+      "attacks": 9,
+      "stars": 14,
+      "destructionPercentage": 96.6,
+      "expEarned": 90
+    },
+    "opponent": {
+      "tag": "#2GV8VUL2U",
+      "name": "KBB",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/DY13OD0bDDy6Rxf9NwYYyQydmBLzWmImheL0GcSxebI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/DY13OD0bDDy6Rxf9NwYYyQydmBLzWmImheL0GcSxebI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/DY13OD0bDDy6Rxf9NwYYyQydmBLzWmImheL0GcSxebI.png"
+      },
+      "clanLevel": 8,
+      "stars": 15,
+      "destructionPercentage": 100
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20250325T171443.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png"
+      },
+      "clanLevel": 20,
+      "attacks": 22,
+      "stars": 38,
+      "destructionPercentage": 93.2,
+      "expEarned": 251
+    },
+    "opponent": {
+      "tag": "#2G8U0J8YR",
+      "name": "الرغود",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Z9uqc2MeaFQ4ex1uru0xwfOiASs067Em53vt87ELTb0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Z9uqc2MeaFQ4ex1uru0xwfOiASs067Em53vt87ELTb0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Z9uqc2MeaFQ4ex1uru0xwfOiASs067Em53vt87ELTb0.png"
+      },
+      "clanLevel": 13,
+      "stars": 32,
+      "destructionPercentage": 82.933334
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20250322T121817.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png"
+      },
+      "clanLevel": 20,
+      "attacks": 16,
+      "stars": 27,
+      "destructionPercentage": 93.8,
+      "expEarned": 196
+    },
+    "opponent": {
+      "tag": "#C8QLG082",
+      "name": "viet cafe",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/BvDfquB85J09osJh-xmc7ntvh_ZTzQLRE5CuuxpRBIs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/BvDfquB85J09osJh-xmc7ntvh_ZTzQLRE5CuuxpRBIs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/BvDfquB85J09osJh-xmc7ntvh_ZTzQLRE5CuuxpRBIs.png"
+      },
+      "clanLevel": 16,
+      "stars": 15,
+      "destructionPercentage": 70.2
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20250318T180400.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png"
+      },
+      "clanLevel": 20,
+      "attacks": 15,
+      "stars": 19,
+      "destructionPercentage": 78.2,
+      "expEarned": 147
+    },
+    "opponent": {
+      "tag": "#2L99UPLQQ",
+      "name": "I Cani Pazzi",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/UqLMmV0soL8UvmXCv1vuJrmkBXgxjWJJIjxpcLSuelU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/UqLMmV0soL8UvmXCv1vuJrmkBXgxjWJJIjxpcLSuelU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/UqLMmV0soL8UvmXCv1vuJrmkBXgxjWJJIjxpcLSuelU.png"
+      },
+      "clanLevel": 15,
+      "stars": 28,
+      "destructionPercentage": 96.7
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20250315T104221.000Z",
+    "teamSize": 5,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png"
+      },
+      "clanLevel": 20,
+      "attacks": 8,
+      "stars": 12,
+      "destructionPercentage": 85,
+      "expEarned": 140
+    },
+    "opponent": {
+      "tag": "#2L00CQJCG",
+      "name": "Clan #2L00CQJCG",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/sEiLZQky9y4R3v0rto43wGlCS0WozskVavSdJR8GUq8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/sEiLZQky9y4R3v0rto43wGlCS0WozskVavSdJR8GUq8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/sEiLZQky9y4R3v0rto43wGlCS0WozskVavSdJR8GUq8.png"
+      },
+      "clanLevel": 14,
+      "stars": 9,
+      "destructionPercentage": 71.2
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20250312T071423.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png"
+      },
+      "clanLevel": 20,
+      "attacks": 17,
+      "stars": 25,
+      "destructionPercentage": 93.3,
+      "expEarned": 145
+    },
+    "opponent": {
+      "tag": "#2G0R0R0VY",
+      "name": "プラズマ団",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/53NLQRX8jNykf1FrfCkmtFF2kMat-QIeHEh56UbXI9E.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/53NLQRX8jNykf1FrfCkmtFF2kMat-QIeHEh56UbXI9E.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/53NLQRX8jNykf1FrfCkmtFF2kMat-QIeHEh56UbXI9E.png"
+      },
+      "clanLevel": 13,
+      "stars": 30,
+      "destructionPercentage": 100
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20250309T095339.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 1,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png"
+      },
+      "clanLevel": 20,
+      "attacks": 89,
+      "stars": 285,
+      "destructionPercentage": 509.13333,
+      "expEarned": 0
+    },
+    "opponent": {
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      },
+      "clanLevel": 0,
+      "stars": 158,
+      "destructionPercentage": 0
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20250227T102427.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 16,
+      "stars": 27,
+      "destructionPercentage": 95.3,
+      "expEarned": 192
+    },
+    "opponent": {
+      "tag": "#UP8YPCUL",
+      "name": "✌درع بغداد✌",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xaDMH07BY1PBpjUjcgMBRqjpc_KWzoKFoglpq8OXiUQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xaDMH07BY1PBpjUjcgMBRqjpc_KWzoKFoglpq8OXiUQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xaDMH07BY1PBpjUjcgMBRqjpc_KWzoKFoglpq8OXiUQ.png"
+      },
+      "clanLevel": 17,
+      "stars": 13,
+      "destructionPercentage": 44.5
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20250224T133344.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 15,
+      "stars": 27,
+      "destructionPercentage": 91.6,
+      "expEarned": 186
+    },
+    "opponent": {
+      "tag": "#J8LQVJL",
+      "name": "Khali",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/yzEGPFP5T5XQ_GNFE993EMjGEJHFgE0lYrkNvWkGnrw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/yzEGPFP5T5XQ_GNFE993EMjGEJHFgE0lYrkNvWkGnrw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/yzEGPFP5T5XQ_GNFE993EMjGEJHFgE0lYrkNvWkGnrw.png"
+      },
+      "clanLevel": 15,
+      "stars": 25,
+      "destructionPercentage": 86.9
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20250220T094926.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 17,
+      "stars": 23,
+      "destructionPercentage": 92.9,
+      "expEarned": 144
+    },
+    "opponent": {
+      "tag": "#2PLU0VL2Y",
+      "name": "MAGDAPIO WARIOR",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/4lRFYJLMh5RUyJOF6wT0Wcux6RUrmOeZsUVYYnUh07c.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/4lRFYJLMh5RUyJOF6wT0Wcux6RUrmOeZsUVYYnUh07c.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/4lRFYJLMh5RUyJOF6wT0Wcux6RUrmOeZsUVYYnUh07c.png"
+      },
+      "clanLevel": 18,
+      "stars": 29,
+      "destructionPercentage": 97.8
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20250217T080036.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 15,
+      "stars": 26,
+      "destructionPercentage": 91.4,
+      "expEarned": 145
+    },
+    "opponent": {
+      "tag": "#2LC8U288",
+      "name": "ninja warrior",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xW9g50dTqBKoqIBgB5XywbQkWOV2mny3a8xCNn88RBA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xW9g50dTqBKoqIBgB5XywbQkWOV2mny3a8xCNn88RBA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xW9g50dTqBKoqIBgB5XywbQkWOV2mny3a8xCNn88RBA.png"
+      },
+      "clanLevel": 16,
+      "stars": 27,
+      "destructionPercentage": 94.5
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20250215T082516.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 14,
+      "stars": 26,
+      "destructionPercentage": 91.8,
+      "expEarned": 194
+    },
+    "opponent": {
+      "tag": "#29U9QUCGR",
+      "name": "•FRENCH TOUCH•",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/JkgodvhQSw1WKNCj-XJg_CZxBw5yXsxz4-LU6cJONC4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/JkgodvhQSw1WKNCj-XJg_CZxBw5yXsxz4-LU6cJONC4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/JkgodvhQSw1WKNCj-XJg_CZxBw5yXsxz4-LU6cJONC4.png"
+      },
+      "clanLevel": 14,
+      "stars": 24,
+      "destructionPercentage": 93.7
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20250212T105658.000Z",
+    "teamSize": 5,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 7,
+      "stars": 15,
+      "destructionPercentage": 100,
+      "expEarned": 137
+    },
+    "opponent": {
+      "tag": "#QQGR0U09",
+      "name": "Shailkuria w c",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/SBZMHAoXuXEhq3UUXeroxveOHzkVxcIcvHP9DqthxEg.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/SBZMHAoXuXEhq3UUXeroxveOHzkVxcIcvHP9DqthxEg.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/SBZMHAoXuXEhq3UUXeroxveOHzkVxcIcvHP9DqthxEg.png"
+      },
+      "clanLevel": 10,
+      "stars": 8,
+      "destructionPercentage": 64.2
+    }
+  },
+  {
+    "result": null,
+    "endTime": "20250209T105907.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 1,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 88,
+      "stars": 254,
+      "destructionPercentage": 513.13336,
+      "expEarned": 0
+    },
+    "opponent": {
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      },
+      "clanLevel": 0,
+      "stars": 175,
+      "destructionPercentage": 0
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20250131T160503.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 11,
+      "stars": 25,
+      "destructionPercentage": 90,
+      "expEarned": 143
+    },
+    "opponent": {
+      "tag": "#2V8G8QJ8",
+      "name": "knight FURY",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/NG5O2TfPAVphgOLSpCjW9rd7SOAjrc7VxIr5K0f88OY.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/NG5O2TfPAVphgOLSpCjW9rd7SOAjrc7VxIr5K0f88OY.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/NG5O2TfPAVphgOLSpCjW9rd7SOAjrc7VxIr5K0f88OY.png"
+      },
+      "clanLevel": 17,
+      "stars": 30,
+      "destructionPercentage": 100
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20250128T113527.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 14,
+      "stars": 28,
+      "destructionPercentage": 95.6,
+      "expEarned": 194
+    },
+    "opponent": {
+      "tag": "#2GGQ89GJV",
+      "name": "saiyan family",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/wUkvKqpr8Oe1SBmyVUiDmRE511gGDNdF5jYTRlNondg.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/wUkvKqpr8Oe1SBmyVUiDmRE511gGDNdF5jYTRlNondg.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/wUkvKqpr8Oe1SBmyVUiDmRE511gGDNdF5jYTRlNondg.png"
+      },
+      "clanLevel": 14,
+      "stars": 24,
+      "destructionPercentage": 84
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20250125T120604.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 8,
+      "stars": 18,
+      "destructionPercentage": 66.7,
+      "expEarned": 126
+    },
+    "opponent": {
+      "tag": "#YVR8GQQC",
+      "name": "こたつ布団",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/BN5HZG8qYTF1ODaLo6amVB_nPN5FKemiIHbLTbTw_SQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/BN5HZG8qYTF1ODaLo6amVB_nPN5FKemiIHbLTbTw_SQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/BN5HZG8qYTF1ODaLo6amVB_nPN5FKemiIHbLTbTw_SQ.png"
+      },
+      "clanLevel": 24,
+      "stars": 30,
+      "destructionPercentage": 100
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20250122T132146.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 17,
+      "stars": 23,
+      "destructionPercentage": 81.6,
+      "expEarned": 196
+    },
+    "opponent": {
+      "tag": "#2YVQG0CRU",
+      "name": "need 5 for war",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/sY_wXO-0S8Raebgk6BUnIu45eRz-ZlYjKv3dsZR_en8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/sY_wXO-0S8Raebgk6BUnIu45eRz-ZlYjKv3dsZR_en8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/sY_wXO-0S8Raebgk6BUnIu45eRz-ZlYjKv3dsZR_en8.png"
+      },
+      "clanLevel": 14,
+      "stars": 22,
+      "destructionPercentage": 83.9
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20250119T131658.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 15,
+      "stars": 24,
+      "destructionPercentage": 88.8,
+      "expEarned": 149
+    },
+    "opponent": {
+      "tag": "#LLUJLP0P",
+      "name": "sanctuary",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Z5keW_c0zyKUq5xxjbV3IxsAyW2V0KZy88gGJOwSZvM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Z5keW_c0zyKUq5xxjbV3IxsAyW2V0KZy88gGJOwSZvM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Z5keW_c0zyKUq5xxjbV3IxsAyW2V0KZy88gGJOwSZvM.png"
+      },
+      "clanLevel": 11,
+      "stars": 25,
+      "destructionPercentage": 94.9
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20250117T073431.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 20,
+      "stars": 29,
+      "destructionPercentage": 82.066666,
+      "expEarned": 198
+    },
+    "opponent": {
+      "tag": "#9PC2GJCC",
+      "name": "crazy 8s",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/75v1HLGKU1Bx2TKBurUBaOTr3ZRomP49Pzf0ZQ6w3do.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/75v1HLGKU1Bx2TKBurUBaOTr3ZRomP49Pzf0ZQ6w3do.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/75v1HLGKU1Bx2TKBurUBaOTr3ZRomP49Pzf0ZQ6w3do.png"
+      },
+      "clanLevel": 17,
+      "stars": 40,
+      "destructionPercentage": 97.53333
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20250114T073945.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 15,
+      "stars": 27,
+      "destructionPercentage": 90.7,
+      "expEarned": 199
+    },
+    "opponent": {
+      "tag": "#22VYP2QVY",
+      "name": "RAGNAROK XC90",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/GQfN236VHqzEKmklXWAiVIsm5VoOB1O1yJu_PVV5j6o.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/GQfN236VHqzEKmklXWAiVIsm5VoOB1O1yJu_PVV5j6o.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/GQfN236VHqzEKmklXWAiVIsm5VoOB1O1yJu_PVV5j6o.png"
+      },
+      "clanLevel": 23,
+      "stars": 26,
+      "destructionPercentage": 96.1
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20250111T113546.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 20,
+      "stars": 39,
+      "destructionPercentage": 93.4,
+      "expEarned": 245
+    },
+    "opponent": {
+      "tag": "#VQ9JYQJQ",
+      "name": "ROYAL ADIVASHI",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/pM44Xt653e1Af7uJO1j30A2w8314GWp7RvDawUPBtcQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/pM44Xt653e1Af7uJO1j30A2w8314GWp7RvDawUPBtcQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/pM44Xt653e1Af7uJO1j30A2w8314GWp7RvDawUPBtcQ.png"
+      },
+      "clanLevel": 16,
+      "stars": 28,
+      "destructionPercentage": 69.333336
+    }
+  },
+  {
+    "result": "tie",
+    "endTime": "20250109T113002.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 1,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 87,
+      "stars": 183,
+      "destructionPercentage": 464.4,
+      "expEarned": 0
+    },
+    "opponent": {
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      },
+      "clanLevel": 0,
+      "stars": 265,
+      "destructionPercentage": 0
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20241230T134636.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 14,
+      "stars": 25,
+      "destructionPercentage": 89,
+      "expEarned": 147
+    },
+    "opponent": {
+      "tag": "#LYUCU2GR",
+      "name": "DAVAO LEGEND",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/nZom6E988d-NKJEUEW7E1R_8eQjl0Utz7s_kN8AlEqo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/nZom6E988d-NKJEUEW7E1R_8eQjl0Utz7s_kN8AlEqo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/nZom6E988d-NKJEUEW7E1R_8eQjl0Utz7s_kN8AlEqo.png"
+      },
+      "clanLevel": 21,
+      "stars": 29,
+      "destructionPercentage": 99.3
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20241226T080955.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 14,
+      "stars": 25,
+      "destructionPercentage": 91.8,
+      "expEarned": 146
+    },
+    "opponent": {
+      "tag": "#2RGV2R0UY",
+      "name": "BASE RÈƯLÔH",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/WgQ22JwLANhJ8T8XnJlUipFdVn83-dGhTU_xLuPFlU4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/WgQ22JwLANhJ8T8XnJlUipFdVn83-dGhTU_xLuPFlU4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/WgQ22JwLANhJ8T8XnJlUipFdVn83-dGhTU_xLuPFlU4.png"
+      },
+      "clanLevel": 4,
+      "stars": 29,
+      "destructionPercentage": 97.7
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20241223T101336.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 16,
+      "stars": 28,
+      "destructionPercentage": 98.1,
+      "expEarned": 191
+    },
+    "opponent": {
+      "tag": "#Y0CCL09V",
+      "name": "WHy sO SeRiOuS",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/N-Xdr8N61e9FffRCmjWLvn-V6c9DwN9V5Y6cFVGNCNU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/N-Xdr8N61e9FffRCmjWLvn-V6c9DwN9V5Y6cFVGNCNU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/N-Xdr8N61e9FffRCmjWLvn-V6c9DwN9V5Y6cFVGNCNU.png"
+      },
+      "clanLevel": 13,
+      "stars": 18,
+      "destructionPercentage": 67.6
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20241220T171204.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 13,
+      "stars": 25,
+      "destructionPercentage": 89.6,
+      "expEarned": 142
+    },
+    "opponent": {
+      "tag": "#8L2URGRG",
+      "name": "S P E R M-CELLS",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/sbWAhuBWEf0zWV4seNlqMGOjzRWNMQuWQAULYcyL_Ak.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/sbWAhuBWEf0zWV4seNlqMGOjzRWNMQuWQAULYcyL_Ak.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/sbWAhuBWEf0zWV4seNlqMGOjzRWNMQuWQAULYcyL_Ak.png"
+      },
+      "clanLevel": 13,
+      "stars": 29,
+      "destructionPercentage": 99.4
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20241218T075523.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 22,
+      "stars": 33,
+      "destructionPercentage": 82.333336,
+      "expEarned": 184
+    },
+    "opponent": {
+      "tag": "#22RYLP0CG",
+      "name": "WORLD FRD",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png"
+      },
+      "clanLevel": 19,
+      "stars": 34,
+      "destructionPercentage": 84.26667
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20241215T175051.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 12,
+      "stars": 27,
+      "destructionPercentage": 94.1,
+      "expEarned": 188
+    },
+    "opponent": {
+      "tag": "#28UJU2GU8",
+      "name": "Idiii minnal",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/uCwGs3QypqmS5WlJ6lxAGhcAATmzzRAU07uDjbrKkXo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/uCwGs3QypqmS5WlJ6lxAGhcAATmzzRAU07uDjbrKkXo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/uCwGs3QypqmS5WlJ6lxAGhcAATmzzRAU07uDjbrKkXo.png"
+      },
+      "clanLevel": 15,
+      "stars": 23,
+      "destructionPercentage": 84.9
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20241213T094207.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 15,
+      "stars": 23,
+      "destructionPercentage": 87.5,
+      "expEarned": 193
+    },
+    "opponent": {
+      "tag": "#2YV99JC0Q",
+      "name": "in The vibes",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/zgLasXJy9w0Oe9PcRYKO2h_Mc6nQRMQUZENyTasm9gE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/zgLasXJy9w0Oe9PcRYKO2h_Mc6nQRMQUZENyTasm9gE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/zgLasXJy9w0Oe9PcRYKO2h_Mc6nQRMQUZENyTasm9gE.png"
+      },
+      "clanLevel": 11,
+      "stars": 21,
+      "destructionPercentage": 85.4
+    }
+  },
+  {
+    "result": null,
+    "endTime": "20241209T101416.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 1,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 89,
+      "stars": 189,
+      "destructionPercentage": 467.6,
+      "expEarned": 0
+    },
+    "opponent": {
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      },
+      "clanLevel": 0,
+      "stars": 225,
+      "destructionPercentage": 0
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20241129T075028.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 15,
+      "stars": 25,
+      "destructionPercentage": 95.8,
+      "expEarned": 195
+    },
+    "opponent": {
+      "tag": "#2QJV20UJR",
+      "name": "دراغو",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Em4AIc2mblnQaipUZ9oNoNe1mtESEEb0tluqIC52XtQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Em4AIc2mblnQaipUZ9oNoNe1mtESEEb0tluqIC52XtQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Em4AIc2mblnQaipUZ9oNoNe1mtESEEb0tluqIC52XtQ.png"
+      },
+      "clanLevel": 10,
+      "stars": 17,
+      "destructionPercentage": 70.4
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20241126T150046.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 19,
+      "stars": 27,
+      "destructionPercentage": 93.7,
+      "expEarned": 185
+    },
+    "opponent": {
+      "tag": "#2P99LYCJV",
+      "name": "LEGENDARY",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/YTI_GEhTdH8MSRC7z331DMuyn_Zc4aLKzebUJgBwzmE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/YTI_GEhTdH8MSRC7z331DMuyn_Zc4aLKzebUJgBwzmE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/YTI_GEhTdH8MSRC7z331DMuyn_Zc4aLKzebUJgBwzmE.png"
+      },
+      "clanLevel": 17,
+      "stars": 20,
+      "destructionPercentage": 70.4
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20241122T090855.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 24,
+      "stars": 37,
+      "destructionPercentage": 90.46667,
+      "expEarned": 197
+    },
+    "opponent": {
+      "tag": "#UJGGLY20",
+      "name": "WARIOR",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/pO5TQBRlXCw63FWOGbBbvCHjH89Tnh_E-pkzzALQHjQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/pO5TQBRlXCw63FWOGbBbvCHjH89Tnh_E-pkzzALQHjQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/pO5TQBRlXCw63FWOGbBbvCHjH89Tnh_E-pkzzALQHjQ.png"
+      },
+      "clanLevel": 20,
+      "stars": 44,
+      "destructionPercentage": 99.4
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20241120T092458.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 15,
+      "stars": 28,
+      "destructionPercentage": 95.3,
+      "expEarned": 194
+    },
+    "opponent": {
+      "tag": "#RVYG9PLU",
+      "name": "BD Love Express",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/5aYVFACikn5zghgtTkyV5L1PoEHCDzTEW8Rn6XT4GmI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/5aYVFACikn5zghgtTkyV5L1PoEHCDzTEW8Rn6XT4GmI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/5aYVFACikn5zghgtTkyV5L1PoEHCDzTEW8Rn6XT4GmI.png"
+      },
+      "clanLevel": 19,
+      "stars": 26,
+      "destructionPercentage": 91.8
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20241115T063938.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 15,
+      "stars": 23,
+      "destructionPercentage": 86.6,
+      "expEarned": 194
+    },
+    "opponent": {
+      "tag": "#2G229CQJ0",
+      "name": "Tropang_Putik",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/XjJAsYoqYnVHveSQ-eaTCpUV0W1ex7yqg_MvvL8GZQc.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/XjJAsYoqYnVHveSQ-eaTCpUV0W1ex7yqg_MvvL8GZQc.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/XjJAsYoqYnVHveSQ-eaTCpUV0W1ex7yqg_MvvL8GZQc.png"
+      },
+      "clanLevel": 13,
+      "stars": 19,
+      "destructionPercentage": 65.4
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20241110T182345.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 1,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 93,
+      "stars": 303,
+      "destructionPercentage": 574.13336,
+      "expEarned": 0
+    },
+    "opponent": {
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      },
+      "clanLevel": 0,
+      "stars": 159,
+      "destructionPercentage": 0
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20241102T124131.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 16,
+      "stars": 26,
+      "destructionPercentage": 90.3,
+      "expEarned": 138
+    },
+    "opponent": {
+      "tag": "#UPVVRC9L",
+      "name": "N Яранск 6 a",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/rAyh_B7QqnLq-xgMOjAT8XyiCFfP1YNtBpAAkw-5I7M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/rAyh_B7QqnLq-xgMOjAT8XyiCFfP1YNtBpAAkw-5I7M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/rAyh_B7QqnLq-xgMOjAT8XyiCFfP1YNtBpAAkw-5I7M.png"
+      },
+      "clanLevel": 20,
+      "stars": 29,
+      "destructionPercentage": 98.4
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20241026T174513.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 18,
+      "stars": 29,
+      "destructionPercentage": 97.1,
+      "expEarned": 192
+    },
+    "opponent": {
+      "tag": "#2YGQYLY82",
+      "name": "Immortal Heroes",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/cahjgUmvy68HMMoEU6ee2CHt8BBpnLpYm6TyoxHRdHQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/cahjgUmvy68HMMoEU6ee2CHt8BBpnLpYm6TyoxHRdHQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/cahjgUmvy68HMMoEU6ee2CHt8BBpnLpYm6TyoxHRdHQ.png"
+      },
+      "clanLevel": 19,
+      "stars": 24,
+      "destructionPercentage": 85.5
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20241020T103912.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 15,
+      "stars": 24,
+      "destructionPercentage": 88.7,
+      "expEarned": 192
+    },
+    "opponent": {
+      "tag": "#9JUCYRLP",
+      "name": "Dumplings",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/qiJ08GGlGZvTZWSEX5I-_pEk7b6n-g4L_-YwrHQVDFA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/qiJ08GGlGZvTZWSEX5I-_pEk7b6n-g4L_-YwrHQVDFA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/qiJ08GGlGZvTZWSEX5I-_pEk7b6n-g4L_-YwrHQVDFA.png"
+      },
+      "clanLevel": 19,
+      "stars": 9,
+      "destructionPercentage": 49.4
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20241015T104634.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 20,
+      "stars": 35,
+      "destructionPercentage": 86,
+      "expEarned": 199
+    },
+    "opponent": {
+      "tag": "#2LG0YYRPV",
+      "name": "Baguette beurée",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/zDcHeObDHUnr7BYhpPuZpPwatxfenu_wO5tJZ8MTYBk.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/zDcHeObDHUnr7BYhpPuZpPwatxfenu_wO5tJZ8MTYBk.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/zDcHeObDHUnr7BYhpPuZpPwatxfenu_wO5tJZ8MTYBk.png"
+      },
+      "clanLevel": 15,
+      "stars": 36,
+      "destructionPercentage": 83.666664
+    }
+  },
+  {
+    "result": null,
+    "endTime": "20241009T224747.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 1,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 95,
+      "stars": 288,
+      "destructionPercentage": 570.26666,
+      "expEarned": 0
+    },
+    "opponent": {
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      },
+      "clanLevel": 0,
+      "stars": 178,
+      "destructionPercentage": 0
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20240927T111729.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 24,
+      "stars": 38,
+      "destructionPercentage": 91.73333,
+      "expEarned": 179
+    },
+    "opponent": {
+      "tag": "#LGUCYJJU",
+      "name": "CASTLE KYMCO",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/WZx_5PuFfSlzN_PzBfy1Of4-1EzXZsU0wzPfTkwnfiI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/WZx_5PuFfSlzN_PzBfy1Of4-1EzXZsU0wzPfTkwnfiI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/WZx_5PuFfSlzN_PzBfy1Of4-1EzXZsU0wzPfTkwnfiI.png"
+      },
+      "clanLevel": 18,
+      "stars": 41,
+      "destructionPercentage": 94.933334
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20240925T104834.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 14,
+      "stars": 27,
+      "destructionPercentage": 94.6,
+      "expEarned": 143
+    },
+    "opponent": {
+      "tag": "#VRJ22290",
+      "name": "JigJig Gurup",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Qn6_t8w9EGMWM1B-6TpnH9DFnpzKFzVew2cDC-1Eq4s.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Qn6_t8w9EGMWM1B-6TpnH9DFnpzKFzVew2cDC-1Eq4s.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Qn6_t8w9EGMWM1B-6TpnH9DFnpzKFzVew2cDC-1Eq4s.png"
+      },
+      "clanLevel": 21,
+      "stars": 28,
+      "destructionPercentage": 99.4
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20240921T074248.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 12,
+      "stars": 21,
+      "destructionPercentage": 76.5,
+      "expEarned": 131
+    },
+    "opponent": {
+      "tag": "#P9982P0Q",
+      "name": "Les trois amis",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/lC52AY1j-bbUHYEIF_tPoXg3Cd_gCRsx3mPdWosR1fk.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/lC52AY1j-bbUHYEIF_tPoXg3Cd_gCRsx3mPdWosR1fk.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/lC52AY1j-bbUHYEIF_tPoXg3Cd_gCRsx3mPdWosR1fk.png"
+      },
+      "clanLevel": 23,
+      "stars": 28,
+      "destructionPercentage": 95.5
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20240918T073243.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 21,
+      "stars": 37,
+      "destructionPercentage": 85.4,
+      "expEarned": 194
+    },
+    "opponent": {
+      "tag": "#2PY2RUCJG",
+      "name": "Stinky Monkeys",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/7e1IKDNfXwyRq91p7nkRQYVo7QUDH1tehJ58j-UNjFc.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/7e1IKDNfXwyRq91p7nkRQYVo7QUDH1tehJ58j-UNjFc.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/7e1IKDNfXwyRq91p7nkRQYVo7QUDH1tehJ58j-UNjFc.png"
+      },
+      "clanLevel": 12,
+      "stars": 43,
+      "destructionPercentage": 99.666664
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20240914T214139.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 19,
+      "stars": 27,
+      "destructionPercentage": 93.1,
+      "expEarned": 141
+    },
+    "opponent": {
+      "tag": "#29R8UUP98",
+      "name": "Just enjoy.",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ebTQbEi9CYm36F8LsMiMgmZMa3eP1RHOFJJ24HxR-14.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ebTQbEi9CYm36F8LsMiMgmZMa3eP1RHOFJJ24HxR-14.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ebTQbEi9CYm36F8LsMiMgmZMa3eP1RHOFJJ24HxR-14.png"
+      },
+      "clanLevel": 9,
+      "stars": 27,
+      "destructionPercentage": 94.7
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20240911T014819.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 29,
+      "stars": 50,
+      "destructionPercentage": 86.25,
+      "expEarned": 240
+    },
+    "opponent": {
+      "tag": "#2GPLC8RP",
+      "name": "رجال لا تهزم",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/lJCygb6_9_ZkAl3Da_O93OxwiyRl6ho0AOzXwHNk8YI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/lJCygb6_9_ZkAl3Da_O93OxwiyRl6ho0AOzXwHNk8YI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/lJCygb6_9_ZkAl3Da_O93OxwiyRl6ho0AOzXwHNk8YI.png"
+      },
+      "clanLevel": 16,
+      "stars": 60,
+      "destructionPercentage": 100
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20240906T190302.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 15,
+      "stars": 29,
+      "destructionPercentage": 96.6,
+      "expEarned": 185
+    },
+    "opponent": {
+      "tag": "#R2PQLLG9",
+      "name": "ماتادورها",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/M6tHD1wy9pdjhmPmo9Rc4J30OgxgOUocFlqPG_d8IZA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/M6tHD1wy9pdjhmPmo9Rc4J30OgxgOUocFlqPG_d8IZA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/M6tHD1wy9pdjhmPmo9Rc4J30OgxgOUocFlqPG_d8IZA.png"
+      },
+      "clanLevel": 17,
+      "stars": 28,
+      "destructionPercentage": 97.6
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20240902T093737.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 26,
+      "stars": 44,
+      "destructionPercentage": 98.73333,
+      "expEarned": 238
+    },
+    "opponent": {
+      "tag": "#Y0QPJLCY",
+      "name": "mazar champion",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/W2xZZ9G9FGpioHnssSx7OO405DdSL-NAJOzd3NJ-n6I.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/W2xZZ9G9FGpioHnssSx7OO405DdSL-NAJOzd3NJ-n6I.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/W2xZZ9G9FGpioHnssSx7OO405DdSL-NAJOzd3NJ-n6I.png"
+      },
+      "clanLevel": 18,
+      "stars": 40,
+      "destructionPercentage": 90.46667
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20240827T172041.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 19,
+      "stars": 26,
+      "destructionPercentage": 91.7,
+      "expEarned": 190
+    },
+    "opponent": {
+      "tag": "#U08UUYPU",
+      "name": "Final strike",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/RrlDM5vv2HFoDgIKikMteuIf1z3omGxu6j1ymW9H6MU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/RrlDM5vv2HFoDgIKikMteuIf1z3omGxu6j1ymW9H6MU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/RrlDM5vv2HFoDgIKikMteuIf1z3omGxu6j1ymW9H6MU.png"
+      },
+      "clanLevel": 13,
+      "stars": 23,
+      "destructionPercentage": 83.4
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20240823T185024.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 22,
+      "stars": 37,
+      "destructionPercentage": 94.26667,
+      "expEarned": 245
+    },
+    "opponent": {
+      "tag": "#2QJQPPY2R",
+      "name": "Dark knights",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/D86XuEJ_yoqCfQnyk0O6CQoRvdGB5bvCRS2EST9t23A.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/D86XuEJ_yoqCfQnyk0O6CQoRvdGB5bvCRS2EST9t23A.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/D86XuEJ_yoqCfQnyk0O6CQoRvdGB5bvCRS2EST9t23A.png"
+      },
+      "clanLevel": 15,
+      "stars": 31,
+      "destructionPercentage": 75.333336
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20240818T163537.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 17,
+      "stars": 23,
+      "destructionPercentage": 87.7,
+      "expEarned": 142
+    },
+    "opponent": {
+      "tag": "#2QL2908RY",
+      "name": "NN' Squad 2.0",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/3slk6MSKV8yWZ9HOtREcivQ_0lmuyH65vB8btFK1D4o.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/3slk6MSKV8yWZ9HOtREcivQ_0lmuyH65vB8btFK1D4o.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/3slk6MSKV8yWZ9HOtREcivQ_0lmuyH65vB8btFK1D4o.png"
+      },
+      "clanLevel": 9,
+      "stars": 29,
+      "destructionPercentage": 96.5
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20240814T202248.000Z",
+    "teamSize": 10,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TPoTEP7g9GsKoF4w1xWM843flPIlGiaJS9fAqiB4Rj4.png"
+      },
+      "clanLevel": 19,
+      "attacks": 15,
+      "stars": 27,
+      "destructionPercentage": 90.7,
+      "expEarned": 142
+    },
+    "opponent": {
+      "tag": "#PJ98202Y",
+      "name": "Rohan",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/EQ_e4-ZTYfZvz6vXFyc9nsdH3GrZv3PlZO1BMnV06vA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/EQ_e4-ZTYfZvz6vXFyc9nsdH3GrZv3PlZO1BMnV06vA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/EQ_e4-ZTYfZvz6vXFyc9nsdH3GrZv3PlZO1BMnV06vA.png"
+      },
+      "clanLevel": 19,
+      "stars": 28,
+      "destructionPercentage": 97.3
+    }
+  },
+  {
+    "result": null,
+    "endTime": "20240809T155343.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 1,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Y1-IF3EqvWPIwd0qd1Mz4Yohs2S-DNj8tKPIASPx1cs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Y1-IF3EqvWPIwd0qd1Mz4Yohs2S-DNj8tKPIASPx1cs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Y1-IF3EqvWPIwd0qd1Mz4Yohs2S-DNj8tKPIASPx1cs.png"
+      },
+      "clanLevel": 18,
+      "attacks": 90,
+      "stars": 259,
+      "destructionPercentage": 517.13336,
+      "expEarned": 0
+    },
+    "opponent": {
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      },
+      "clanLevel": 0,
+      "stars": 205,
+      "destructionPercentage": 0
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20240731T181331.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Y1-IF3EqvWPIwd0qd1Mz4Yohs2S-DNj8tKPIASPx1cs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Y1-IF3EqvWPIwd0qd1Mz4Yohs2S-DNj8tKPIASPx1cs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Y1-IF3EqvWPIwd0qd1Mz4Yohs2S-DNj8tKPIASPx1cs.png"
+      },
+      "clanLevel": 18,
+      "attacks": 29,
+      "stars": 54,
+      "destructionPercentage": 91.9,
+      "expEarned": 241
+    },
+    "opponent": {
+      "tag": "#2GR9GQPUL",
+      "name": "REQ N LEAVE",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/sCH5rGU3XIlooU36zjN8AkNHUbcp31HGN1Um4Q0cbZc.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/sCH5rGU3XIlooU36zjN8AkNHUbcp31HGN1Um4Q0cbZc.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/sCH5rGU3XIlooU36zjN8AkNHUbcp31HGN1Um4Q0cbZc.png"
+      },
+      "clanLevel": 8,
+      "stars": 56,
+      "destructionPercentage": 96.55
+    }
+  },
+  {
+    "result": "tie",
+    "endTime": "20240710T203412.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 1,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Y1-IF3EqvWPIwd0qd1Mz4Yohs2S-DNj8tKPIASPx1cs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Y1-IF3EqvWPIwd0qd1Mz4Yohs2S-DNj8tKPIASPx1cs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Y1-IF3EqvWPIwd0qd1Mz4Yohs2S-DNj8tKPIASPx1cs.png"
+      },
+      "clanLevel": 18,
+      "attacks": 94,
+      "stars": 209,
+      "destructionPercentage": 497.6,
+      "expEarned": 0
+    },
+    "opponent": {
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      },
+      "clanLevel": 0,
+      "stars": 200,
+      "destructionPercentage": 0
+    }
+  },
+  {
+    "result": null,
+    "endTime": "20240510T220130.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 1,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Y1-IF3EqvWPIwd0qd1Mz4Yohs2S-DNj8tKPIASPx1cs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Y1-IF3EqvWPIwd0qd1Mz4Yohs2S-DNj8tKPIASPx1cs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Y1-IF3EqvWPIwd0qd1Mz4Yohs2S-DNj8tKPIASPx1cs.png"
+      },
+      "clanLevel": 18,
+      "attacks": 92,
+      "stars": 217,
+      "destructionPercentage": 466.2,
+      "expEarned": 0
+    },
+    "opponent": {
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      },
+      "clanLevel": 0,
+      "stars": 212,
+      "destructionPercentage": 0
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210923T194806.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 26,
+      "stars": 38,
+      "destructionPercentage": 88.13333,
+      "expEarned": 185
+    },
+    "opponent": {
+      "tag": "#288YQ90VR",
+      "name": "SL Hunter",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/YIUIxrkh0c0JY3X7Khbf4gUe2MNwba9y2bV1ikMIGX0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/YIUIxrkh0c0JY3X7Khbf4gUe2MNwba9y2bV1ikMIGX0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/YIUIxrkh0c0JY3X7Khbf4gUe2MNwba9y2bV1ikMIGX0.png"
+      },
+      "clanLevel": 10,
+      "stars": 33,
+      "destructionPercentage": 79
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20210921T181032.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 24,
+      "stars": 39,
+      "destructionPercentage": 86.933334,
+      "expEarned": 128
+    },
+    "opponent": {
+      "tag": "#L9CG92YC",
+      "name": "Dark Risers",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/UnajMW3S_MrMdSZfb3HIQmeAuJgCG2v9VRE-9ZopYrg.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/UnajMW3S_MrMdSZfb3HIQmeAuJgCG2v9VRE-9ZopYrg.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/UnajMW3S_MrMdSZfb3HIQmeAuJgCG2v9VRE-9ZopYrg.png"
+      },
+      "clanLevel": 12,
+      "stars": 39,
+      "destructionPercentage": 91.333336
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20210918T190939.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 24,
+      "stars": 38,
+      "destructionPercentage": 92.46667,
+      "expEarned": 131
+    },
+    "opponent": {
+      "tag": "#2LYQCLVVR",
+      "name": "Death Squad",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/C1du25BJaAS2NkiPppUdYEWNEfrzPh0zMgQ92jQiWaE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/C1du25BJaAS2NkiPppUdYEWNEfrzPh0zMgQ92jQiWaE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/C1du25BJaAS2NkiPppUdYEWNEfrzPh0zMgQ92jQiWaE.png"
+      },
+      "clanLevel": 3,
+      "stars": 42,
+      "destructionPercentage": 95.4
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20210915T184006.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 26,
+      "stars": 49,
+      "destructionPercentage": 88.25,
+      "expEarned": 145
+    },
+    "opponent": {
+      "tag": "#20CP2VCPC",
+      "name": "CIAN KUAN",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/U1mkW0aHK636qeVuZZoVE6_t7MOxm1iynHBUtWaEcBk.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/U1mkW0aHK636qeVuZZoVE6_t7MOxm1iynHBUtWaEcBk.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/U1mkW0aHK636qeVuZZoVE6_t7MOxm1iynHBUtWaEcBk.png"
+      },
+      "clanLevel": 9,
+      "stars": 55,
+      "destructionPercentage": 92
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210912T192701.000Z",
+    "teamSize": 25,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 32,
+      "stars": 67,
+      "destructionPercentage": 93.4,
+      "expEarned": 249
+    },
+    "opponent": {
+      "tag": "#2YCRV0RQL",
+      "name": "os cães de war",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/R1GOl5fVLOKpC_eEYCPAQK2LDd6SNxaHLjCCZOA57ZI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/R1GOl5fVLOKpC_eEYCPAQK2LDd6SNxaHLjCCZOA57ZI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/R1GOl5fVLOKpC_eEYCPAQK2LDd6SNxaHLjCCZOA57ZI.png"
+      },
+      "clanLevel": 4,
+      "stars": 30,
+      "destructionPercentage": 50.32
+    }
+  },
+  {
+    "result": null,
+    "endTime": "20210909T114318.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 1,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 103,
+      "stars": 253,
+      "destructionPercentage": 494.86667,
+      "expEarned": 0
+    },
+    "opponent": {
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      },
+      "clanLevel": 0,
+      "stars": 139,
+      "destructionPercentage": 0
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20210830T200303.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 33,
+      "stars": 49,
+      "destructionPercentage": 83.9,
+      "expEarned": 154
+    },
+    "opponent": {
+      "tag": "#2P9LVQC00",
+      "name": "48million_kurd",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/6vxx8pKBQXNp7oyueSBp_lfyG0OL4t5wV642Xx2Xkaw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/6vxx8pKBQXNp7oyueSBp_lfyG0OL4t5wV642Xx2Xkaw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/6vxx8pKBQXNp7oyueSBp_lfyG0OL4t5wV642Xx2Xkaw.png"
+      },
+      "clanLevel": 9,
+      "stars": 53,
+      "destructionPercentage": 94.6
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210828T200952.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 25,
+      "stars": 41,
+      "destructionPercentage": 95.2,
+      "expEarned": 180
+    },
+    "opponent": {
+      "tag": "#YYU0RUG9",
+      "name": "Ekipo ja",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ku41QahkxWUrFyh31OBSEq7h63Qbj3vm8c4l9pQg3_g.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ku41QahkxWUrFyh31OBSEq7h63Qbj3vm8c4l9pQg3_g.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ku41QahkxWUrFyh31OBSEq7h63Qbj3vm8c4l9pQg3_g.png"
+      },
+      "clanLevel": 8,
+      "stars": 35,
+      "destructionPercentage": 81.666664
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210825T193028.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 27,
+      "stars": 40,
+      "destructionPercentage": 93.6,
+      "expEarned": 178
+    },
+    "opponent": {
+      "tag": "#GC0LJQRC",
+      "name": "اسود العالم",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/0j8I1Q4gg7WrEA4Rl6YAvZoHgPVD0hTZdZEujy8rFTM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/0j8I1Q4gg7WrEA4Rl6YAvZoHgPVD0hTZdZEujy8rFTM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/0j8I1Q4gg7WrEA4Rl6YAvZoHgPVD0hTZdZEujy8rFTM.png"
+      },
+      "clanLevel": 10,
+      "stars": 13,
+      "destructionPercentage": 40
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210823T175419.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 25,
+      "stars": 40,
+      "destructionPercentage": 90.066666,
+      "expEarned": 180
+    },
+    "opponent": {
+      "tag": "#JJJVLQU",
+      "name": "Garabekliler",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/DUgI7fB2MwxUimfEVr0xIbkKnxrKLMI3w0F0lcP55jY.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/DUgI7fB2MwxUimfEVr0xIbkKnxrKLMI3w0F0lcP55jY.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/DUgI7fB2MwxUimfEVr0xIbkKnxrKLMI3w0F0lcP55jY.png"
+      },
+      "clanLevel": 12,
+      "stars": 30,
+      "destructionPercentage": 80.066666
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210820T200623.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 25,
+      "stars": 38,
+      "destructionPercentage": 93.8,
+      "expEarned": 187
+    },
+    "opponent": {
+      "tag": "#2LJLRYJJV",
+      "name": "Sub21",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/bUiPq_-QfnFuzNEPAUQmsLHQRq8TPLIu6n0F7nK_tys.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/bUiPq_-QfnFuzNEPAUQmsLHQRq8TPLIu6n0F7nK_tys.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/bUiPq_-QfnFuzNEPAUQmsLHQRq8TPLIu6n0F7nK_tys.png"
+      },
+      "clanLevel": 5,
+      "stars": 6,
+      "destructionPercentage": 14.733334
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20210817T185150.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 21,
+      "stars": 43,
+      "destructionPercentage": 87.6,
+      "expEarned": 155
+    },
+    "opponent": {
+      "tag": "#G989VLVQ",
+      "name": "khulna",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+      },
+      "clanLevel": 6,
+      "stars": 55,
+      "destructionPercentage": 94.2
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20210812T180954.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 22,
+      "stars": 35,
+      "destructionPercentage": 89.46667,
+      "expEarned": 128
+    },
+    "opponent": {
+      "tag": "#2Y9VUCV0V",
+      "name": "Street Vendors",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/7PGT5yYbXVidLj6r9sv334Ka8c3Y3f9C6MWEXuTlyVI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/7PGT5yYbXVidLj6r9sv334Ka8c3Y3f9C6MWEXuTlyVI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/7PGT5yYbXVidLj6r9sv334Ka8c3Y3f9C6MWEXuTlyVI.png"
+      },
+      "clanLevel": 5,
+      "stars": 36,
+      "destructionPercentage": 92.333336
+    }
+  },
+  {
+    "result": null,
+    "endTime": "20210809T180747.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 1,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 100,
+      "stars": 263,
+      "destructionPercentage": 518.73334,
+      "expEarned": 0
+    },
+    "opponent": {
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      },
+      "clanLevel": 0,
+      "stars": 180,
+      "destructionPercentage": 0
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210731T182638.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 23,
+      "stars": 38,
+      "destructionPercentage": 91.2,
+      "expEarned": 176
+    },
+    "opponent": {
+      "tag": "#GQQQ0J80",
+      "name": "LEGEND OF INDIA",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/O-2_z_m2cCatzNq2cSej2GIIWBhG2g7XmXpZKqnWZdM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/O-2_z_m2cCatzNq2cSej2GIIWBhG2g7XmXpZKqnWZdM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/O-2_z_m2cCatzNq2cSej2GIIWBhG2g7XmXpZKqnWZdM.png"
+      },
+      "clanLevel": 9,
+      "stars": 35,
+      "destructionPercentage": 82.8
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210729T181159.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 21,
+      "stars": 40,
+      "destructionPercentage": 95.8,
+      "expEarned": 178
+    },
+    "opponent": {
+      "tag": "#2YQQGQLUL",
+      "name": "IRAN84N",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Hak6xi_cXisWuNbcvfJ1-ZGy0s1l_lkhHqCzNCr6xL4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Hak6xi_cXisWuNbcvfJ1-ZGy0s1l_lkhHqCzNCr6xL4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Hak6xi_cXisWuNbcvfJ1-ZGy0s1l_lkhHqCzNCr6xL4.png"
+      },
+      "clanLevel": 9,
+      "stars": 32,
+      "destructionPercentage": 79.53333
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210727T183320.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 26,
+      "stars": 38,
+      "destructionPercentage": 89.8,
+      "expEarned": 178
+    },
+    "opponent": {
+      "tag": "#28VRQR2P0",
+      "name": "LAVA WINGS",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/EsYVnUO_AUhyBvrrx5uGQgU0I5tnOxYBZzCcbKRblNE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/EsYVnUO_AUhyBvrrx5uGQgU0I5tnOxYBZzCcbKRblNE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/EsYVnUO_AUhyBvrrx5uGQgU0I5tnOxYBZzCcbKRblNE.png"
+      },
+      "clanLevel": 7,
+      "stars": 14,
+      "destructionPercentage": 37.333332
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20210723T193853.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 25,
+      "stars": 39,
+      "destructionPercentage": 93.26667,
+      "expEarned": 115
+    },
+    "opponent": {
+      "tag": "#2PQ0UYV0Q",
+      "name": "☆☆☆.KASIRGA.☆☆☆",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ws9jbh3MJ1SxXdjB1VPCdP37q2QiU9se4-zlOIx0wNw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ws9jbh3MJ1SxXdjB1VPCdP37q2QiU9se4-zlOIx0wNw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ws9jbh3MJ1SxXdjB1VPCdP37q2QiU9se4-zlOIx0wNw.png"
+      },
+      "clanLevel": 9,
+      "stars": 42,
+      "destructionPercentage": 96.933334
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210721T182208.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 29,
+      "stars": 41,
+      "destructionPercentage": 95.666664,
+      "expEarned": 175
+    },
+    "opponent": {
+      "tag": "#2LLPQ9RCP",
+      "name": "Trivians KL_01",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/NPAPRNJtUl14wzF_QVARVq2oEpSKIqN9VaCFe_giU5Q.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/NPAPRNJtUl14wzF_QVARVq2oEpSKIqN9VaCFe_giU5Q.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/NPAPRNJtUl14wzF_QVARVq2oEpSKIqN9VaCFe_giU5Q.png"
+      },
+      "clanLevel": 4,
+      "stars": 35,
+      "destructionPercentage": 84.333336
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20210719T183915.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 30,
+      "stars": 47,
+      "destructionPercentage": 88.15,
+      "expEarned": 162
+    },
+    "opponent": {
+      "tag": "#2YV092YVV",
+      "name": "MODULE l LEGEND",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/WIGKszvUISsd5TzLJprFTGw2xzdewy-tqydgyN59uAA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/WIGKszvUISsd5TzLJprFTGw2xzdewy-tqydgyN59uAA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/WIGKszvUISsd5TzLJprFTGw2xzdewy-tqydgyN59uAA.png"
+      },
+      "clanLevel": 5,
+      "stars": 52,
+      "destructionPercentage": 92.25
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20210717T185656.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 25,
+      "stars": 37,
+      "destructionPercentage": 87.53333,
+      "expEarned": 126
+    },
+    "opponent": {
+      "tag": "#2PY90G0V9",
+      "name": "non si sgarra 2",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/GKBpv3WNfPmvUoqrrNTEH895-pTePkhyIAuihWcM5Z4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/GKBpv3WNfPmvUoqrrNTEH895-pTePkhyIAuihWcM5Z4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/GKBpv3WNfPmvUoqrrNTEH895-pTePkhyIAuihWcM5Z4.png"
+      },
+      "clanLevel": 9,
+      "stars": 38,
+      "destructionPercentage": 87.2
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210715T181827.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xJJ3JFV0V3ysRf26qBOxu2rA2LniKBErLfd9qrScHUA.png"
+      },
+      "clanLevel": 10,
+      "attacks": 33,
+      "stars": 56,
+      "destructionPercentage": 93.65,
+      "expEarned": 186
+    },
+    "opponent": {
+      "tag": "#QQJL8Q0L",
+      "name": "The Wasps Sting",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/fhWKF2E0M8T0FA5MdXQvgKWYl4TO9s1HQb_Ul2KBYCg.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/fhWKF2E0M8T0FA5MdXQvgKWYl4TO9s1HQb_Ul2KBYCg.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/fhWKF2E0M8T0FA5MdXQvgKWYl4TO9s1HQb_Ul2KBYCg.png"
+      },
+      "clanLevel": 10,
+      "stars": 41,
+      "destructionPercentage": 76.85
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20210713T182053.000Z",
+    "teamSize": 30,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 40,
+      "stars": 63,
+      "destructionPercentage": 82.73333,
+      "expEarned": 180
+    },
+    "opponent": {
+      "tag": "#9J88L028",
+      "name": "The Nitidos",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/OajuWHRAWEe2jWCEMsaCtlkxIs7NmiWpENRMO2dzBV0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/OajuWHRAWEe2jWCEMsaCtlkxIs7NmiWpENRMO2dzBV0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/OajuWHRAWEe2jWCEMsaCtlkxIs7NmiWpENRMO2dzBV0.png"
+      },
+      "clanLevel": 10,
+      "stars": 76,
+      "destructionPercentage": 91.86667
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210709T163714.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 1,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 102,
+      "stars": 314,
+      "destructionPercentage": 586.73334,
+      "expEarned": 0
+    },
+    "opponent": {
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      },
+      "clanLevel": 0,
+      "stars": 108,
+      "destructionPercentage": 0
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210629T213238.000Z",
+    "teamSize": 25,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 33,
+      "stars": 68,
+      "destructionPercentage": 91.6,
+      "expEarned": 196
+    },
+    "opponent": {
+      "tag": "#JLPJLLR9",
+      "name": "LOS UNIDOS",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/SkT4Cuf775fOcpi4AIPrlOXxwoXoHxUj5soiBP6Z7TY.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/SkT4Cuf775fOcpi4AIPrlOXxwoXoHxUj5soiBP6Z7TY.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/SkT4Cuf775fOcpi4AIPrlOXxwoXoHxUj5soiBP6Z7TY.png"
+      },
+      "clanLevel": 13,
+      "stars": 67,
+      "destructionPercentage": 94.76
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210626T203509.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 36,
+      "stars": 59,
+      "destructionPercentage": 99.45,
+      "expEarned": 178
+    },
+    "opponent": {
+      "tag": "#2YRV8L892",
+      "name": "Da Usos",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Gv7eVaLegw77yfOE-Oy-YF4IBmb8yF8EzyDia-Zmrzs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Gv7eVaLegw77yfOE-Oy-YF4IBmb8yF8EzyDia-Zmrzs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Gv7eVaLegw77yfOE-Oy-YF4IBmb8yF8EzyDia-Zmrzs.png"
+      },
+      "clanLevel": 3,
+      "stars": 15,
+      "destructionPercentage": 28.75
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210623T203836.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 28,
+      "stars": 54,
+      "destructionPercentage": 94.95,
+      "expEarned": 179
+    },
+    "opponent": {
+      "tag": "#2L8VVJ8U0",
+      "name": "Monke",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/7hj04DVe1KpJpg2p9T0YVchVFQQCuldzxgWXxrevOuo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/7hj04DVe1KpJpg2p9T0YVchVFQQCuldzxgWXxrevOuo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/7hj04DVe1KpJpg2p9T0YVchVFQQCuldzxgWXxrevOuo.png"
+      },
+      "clanLevel": 3,
+      "stars": 43,
+      "destructionPercentage": 79.1
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210621T194729.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 23,
+      "stars": 41,
+      "destructionPercentage": 92.53333,
+      "expEarned": 177
+    },
+    "opponent": {
+      "tag": "#2YYQUQGGJ",
+      "name": "Squad",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png"
+      },
+      "clanLevel": 7,
+      "stars": 32,
+      "destructionPercentage": 86
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210619T200320.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 27,
+      "stars": 42,
+      "destructionPercentage": 94.933334,
+      "expEarned": 176
+    },
+    "opponent": {
+      "tag": "#2L98YQQ0Q",
+      "name": "Canada Academy",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Gv7eVaLegw77yfOE-Oy-YF4IBmb8yF8EzyDia-Zmrzs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Gv7eVaLegw77yfOE-Oy-YF4IBmb8yF8EzyDia-Zmrzs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Gv7eVaLegw77yfOE-Oy-YF4IBmb8yF8EzyDia-Zmrzs.png"
+      },
+      "clanLevel": 3,
+      "stars": 37,
+      "destructionPercentage": 88.2
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210617T202445.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 31,
+      "stars": 54,
+      "destructionPercentage": 94.8,
+      "expEarned": 193
+    },
+    "opponent": {
+      "tag": "#29VGUGPUR",
+      "name": "Qc team",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/JhUMjD-itCg6Mu-dsDZjKJzqaSMHJe-H_nQ87M5yY9A.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/JhUMjD-itCg6Mu-dsDZjKJzqaSMHJe-H_nQ87M5yY9A.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/JhUMjD-itCg6Mu-dsDZjKJzqaSMHJe-H_nQ87M5yY9A.png"
+      },
+      "clanLevel": 6,
+      "stars": 52,
+      "destructionPercentage": 93.55
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210615T202349.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 24,
+      "stars": 40,
+      "destructionPercentage": 90.13333,
+      "expEarned": 169
+    },
+    "opponent": {
+      "tag": "#2LRRLY9VU",
+      "name": "BRUNETTI ELITE",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/PhVGDsODgOSnU8OY_iZZl4LjeCHqTFmayfXi1HOrHWI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/PhVGDsODgOSnU8OY_iZZl4LjeCHqTFmayfXi1HOrHWI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/PhVGDsODgOSnU8OY_iZZl4LjeCHqTFmayfXi1HOrHWI.png"
+      },
+      "clanLevel": 4,
+      "stars": 38,
+      "destructionPercentage": 89
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20210613T193805.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 33,
+      "stars": 52,
+      "destructionPercentage": 89.8,
+      "expEarned": 127
+    },
+    "opponent": {
+      "tag": "#20Y9VP999",
+      "name": "《《●DALKURT●》》",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/kIgnCKZ3tZujbrkA8-UCJ11D2enG77ao1XknJDvzfuE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/kIgnCKZ3tZujbrkA8-UCJ11D2enG77ao1XknJDvzfuE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/kIgnCKZ3tZujbrkA8-UCJ11D2enG77ao1XknJDvzfuE.png"
+      },
+      "clanLevel": 9,
+      "stars": 55,
+      "destructionPercentage": 94.3
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210611T183230.000Z",
+    "teamSize": 25,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 41,
+      "stars": 68,
+      "destructionPercentage": 94,
+      "expEarned": 213
+    },
+    "opponent": {
+      "tag": "#QPJLVYGJ",
+      "name": "پاتوق دختر پسرا",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/dCYB3bdhaEJ2vxjBURtxoFj4jshWC5baeKBSQytthxU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/dCYB3bdhaEJ2vxjBURtxoFj4jshWC5baeKBSQytthxU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/dCYB3bdhaEJ2vxjBURtxoFj4jshWC5baeKBSQytthxU.png"
+      },
+      "clanLevel": 9,
+      "stars": 65,
+      "destructionPercentage": 93.76
+    }
+  },
+  {
+    "result": null,
+    "endTime": "20210609T091128.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 1,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 98,
+      "stars": 266,
+      "destructionPercentage": 509.93332,
+      "expEarned": 0
+    },
+    "opponent": {
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      },
+      "clanLevel": 0,
+      "stars": 151,
+      "destructionPercentage": 0
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210530T204119.000Z",
+    "teamSize": 25,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 36,
+      "stars": 65,
+      "destructionPercentage": 93.96,
+      "expEarned": 205
+    },
+    "opponent": {
+      "tag": "#LRYJVJ0L",
+      "name": "فرسان المحبه",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/zvSxNAI3ejPt0Uu5X8Cu_d-qmCQfZRkv1DQamf7BQHE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/zvSxNAI3ejPt0Uu5X8Cu_d-qmCQfZRkv1DQamf7BQHE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/zvSxNAI3ejPt0Uu5X8Cu_d-qmCQfZRkv1DQamf7BQHE.png"
+      },
+      "clanLevel": 14,
+      "stars": 61,
+      "destructionPercentage": 86.68
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210527T175845.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 33,
+      "stars": 52,
+      "destructionPercentage": 91.6,
+      "expEarned": 186
+    },
+    "opponent": {
+      "tag": "#Q2R9CRQC",
+      "name": "Galsari Fc",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/W5EHsfWtto5sm318q_c_cyAfvcvITdcBDQJbB70WQGs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/W5EHsfWtto5sm318q_c_cyAfvcvITdcBDQJbB70WQGs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/W5EHsfWtto5sm318q_c_cyAfvcvITdcBDQJbB70WQGs.png"
+      },
+      "clanLevel": 8,
+      "stars": 50,
+      "destructionPercentage": 89.65
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210524T190242.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 34,
+      "stars": 57,
+      "destructionPercentage": 95.6,
+      "expEarned": 190
+    },
+    "opponent": {
+      "tag": "#22JLQ92CY",
+      "name": "میحمله سیتی",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/uyJRHe3IhlX3UKLyzDUQB1eOqGAGVUlQ4eokLYNXTPc.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/uyJRHe3IhlX3UKLyzDUQB1eOqGAGVUlQ4eokLYNXTPc.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/uyJRHe3IhlX3UKLyzDUQB1eOqGAGVUlQ4eokLYNXTPc.png"
+      },
+      "clanLevel": 8,
+      "stars": 35,
+      "destructionPercentage": 63.15
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20210521T193602.000Z",
+    "teamSize": 25,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 39,
+      "stars": 61,
+      "destructionPercentage": 86.64,
+      "expEarned": 152
+    },
+    "opponent": {
+      "tag": "#RG8ULLG9",
+      "name": "Mistrze",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/KGg1FbEdJSndD0VaAMeIuWAVo0t3mIL9IQp2aRWvy3A.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/KGg1FbEdJSndD0VaAMeIuWAVo0t3mIL9IQp2aRWvy3A.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/KGg1FbEdJSndD0VaAMeIuWAVo0t3mIL9IQp2aRWvy3A.png"
+      },
+      "clanLevel": 12,
+      "stars": 63,
+      "destructionPercentage": 88.64
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210518T175942.000Z",
+    "teamSize": 25,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 40,
+      "stars": 63,
+      "destructionPercentage": 91.24,
+      "expEarned": 217
+    },
+    "opponent": {
+      "tag": "#2Y22G2U0G",
+      "name": "Yenilmezler",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/4sohSWuFFiQqg3QEn6OBw5_YK73rNcOyHGhOsz1L4jA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/4sohSWuFFiQqg3QEn6OBw5_YK73rNcOyHGhOsz1L4jA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/4sohSWuFFiQqg3QEn6OBw5_YK73rNcOyHGhOsz1L4jA.png"
+      },
+      "clanLevel": 6,
+      "stars": 50,
+      "destructionPercentage": 72.56
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210515T175314.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 37,
+      "stars": 54,
+      "destructionPercentage": 94.4,
+      "expEarned": 190
+    },
+    "opponent": {
+      "tag": "#L9892UU2",
+      "name": "FILBOX FC",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/CLEy1yrA1f1lRHbRX0yOcntkYGa7fS7BWgl7KvmKQ3s.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/CLEy1yrA1f1lRHbRX0yOcntkYGa7fS7BWgl7KvmKQ3s.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/CLEy1yrA1f1lRHbRX0yOcntkYGa7fS7BWgl7KvmKQ3s.png"
+      },
+      "clanLevel": 11,
+      "stars": 50,
+      "destructionPercentage": 85.9
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210512T180233.000Z",
+    "teamSize": 30,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 42,
+      "stars": 72,
+      "destructionPercentage": 85.36667,
+      "expEarned": 211
+    },
+    "opponent": {
+      "tag": "#J0G2PCVG",
+      "name": "MEXICO 2.0",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/A7QctMGVQCjdf4QzbdlYJrUwvgNTyhMJAjmJLa1nt1w.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/A7QctMGVQCjdf4QzbdlYJrUwvgNTyhMJAjmJLa1nt1w.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/A7QctMGVQCjdf4QzbdlYJrUwvgNTyhMJAjmJLa1nt1w.png"
+      },
+      "clanLevel": 14,
+      "stars": 64,
+      "destructionPercentage": 76
+    }
+  },
+  {
+    "result": null,
+    "endTime": "20210509T130906.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 1,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 97,
+      "stars": 238,
+      "destructionPercentage": 479,
+      "expEarned": 0
+    },
+    "opponent": {
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      },
+      "clanLevel": 0,
+      "stars": 119,
+      "destructionPercentage": 0
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210430T175050.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 32,
+      "stars": 53,
+      "destructionPercentage": 94.45,
+      "expEarned": 189
+    },
+    "opponent": {
+      "tag": "#29V0JLPQY",
+      "name": "ДРУЗЬЯ",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/6oSlZoanNSImCtGi9gNR_y5-qnZhjVEgB61N6oOE6nM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/6oSlZoanNSImCtGi9gNR_y5-qnZhjVEgB61N6oOE6nM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/6oSlZoanNSImCtGi9gNR_y5-qnZhjVEgB61N6oOE6nM.png"
+      },
+      "clanLevel": 9,
+      "stars": 48,
+      "destructionPercentage": 87.2
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20210428T171212.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 32,
+      "stars": 52,
+      "destructionPercentage": 91.8,
+      "expEarned": 130
+    },
+    "opponent": {
+      "tag": "#89VY2R9C",
+      "name": "The Best Gamers",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/_zBB-NYEU3JKmrXlzMs1hxk7Y1BdGvEAOr0tN3dsgOw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/_zBB-NYEU3JKmrXlzMs1hxk7Y1BdGvEAOr0tN3dsgOw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/_zBB-NYEU3JKmrXlzMs1hxk7Y1BdGvEAOr0tN3dsgOw.png"
+      },
+      "clanLevel": 7,
+      "stars": 54,
+      "destructionPercentage": 97.2
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210425T212242.000Z",
+    "teamSize": 25,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 42,
+      "stars": 66,
+      "destructionPercentage": 92.96,
+      "expEarned": 208
+    },
+    "opponent": {
+      "tag": "#2PYR9R802",
+      "name": "fenomene",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/oE-CSQuavS36Ubt3SJ4_mbdKvs2571JFQaMx-mA6gwI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/oE-CSQuavS36Ubt3SJ4_mbdKvs2571JFQaMx-mA6gwI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/oE-CSQuavS36Ubt3SJ4_mbdKvs2571JFQaMx-mA6gwI.png"
+      },
+      "clanLevel": 4,
+      "stars": 47,
+      "destructionPercentage": 72.48
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210423T191816.000Z",
+    "teamSize": 25,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+      },
+      "clanLevel": 9,
+      "attacks": 36,
+      "stars": 62,
+      "destructionPercentage": 90.44,
+      "expEarned": 194
+    },
+    "opponent": {
+      "tag": "#2PYULLQJ0",
+      "name": "Classic",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/_z5Uq0GAhAzauHRTZh8CzWtyz0wgYLDlGDxH--vH0tA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/_z5Uq0GAhAzauHRTZh8CzWtyz0wgYLDlGDxH--vH0tA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/_z5Uq0GAhAzauHRTZh8CzWtyz0wgYLDlGDxH--vH0tA.png"
+      },
+      "clanLevel": 3,
+      "stars": 58,
+      "destructionPercentage": 83.32
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20210421T190130.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png"
+      },
+      "clanLevel": 8,
+      "attacks": 33,
+      "stars": 52,
+      "destructionPercentage": 92.85,
+      "expEarned": 126
+    },
+    "opponent": {
+      "tag": "#2LQ2UJ0JU",
+      "name": "بیلاخ",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/PJYRUuzCePCtkVJ1cVQ7DopWMD85vBUTRFkQOKLzqec.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/PJYRUuzCePCtkVJ1cVQ7DopWMD85vBUTRFkQOKLzqec.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/PJYRUuzCePCtkVJ1cVQ7DopWMD85vBUTRFkQOKLzqec.png"
+      },
+      "clanLevel": 4,
+      "stars": 57,
+      "destructionPercentage": 95.55
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210419T190005.000Z",
+    "teamSize": 30,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png"
+      },
+      "clanLevel": 8,
+      "attacks": 48,
+      "stars": 80,
+      "destructionPercentage": 95.933334,
+      "expEarned": 212
+    },
+    "opponent": {
+      "tag": "#2YVJQJ2L2",
+      "name": "Turmfalken",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/a2NmRCmaKjVHW8fWlCebBGCpPiFAqjj9qw1DpocUexE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/a2NmRCmaKjVHW8fWlCebBGCpPiFAqjj9qw1DpocUexE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/a2NmRCmaKjVHW8fWlCebBGCpPiFAqjj9qw1DpocUexE.png"
+      },
+      "clanLevel": 3,
+      "stars": 73,
+      "destructionPercentage": 85.96667
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210417T185045.000Z",
+    "teamSize": 25,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png"
+      },
+      "clanLevel": 8,
+      "attacks": 40,
+      "stars": 58,
+      "destructionPercentage": 87.48,
+      "expEarned": 194
+    },
+    "opponent": {
+      "tag": "#2LQYRPC8Q",
+      "name": "FBI",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/930andOZUztswuKFN-p9cCTUs_HQ3awFVhvmlPB62MY.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/930andOZUztswuKFN-p9cCTUs_HQ3awFVhvmlPB62MY.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/930andOZUztswuKFN-p9cCTUs_HQ3awFVhvmlPB62MY.png"
+      },
+      "clanLevel": 3,
+      "stars": 37,
+      "destructionPercentage": 58.68
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20210414T202115.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png"
+      },
+      "clanLevel": 8,
+      "attacks": 26,
+      "stars": 31,
+      "destructionPercentage": 84.46667,
+      "expEarned": 107
+    },
+    "opponent": {
+      "tag": "#UYLUR90L",
+      "name": "ONLY FRIENDS",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png"
+      },
+      "clanLevel": 6,
+      "stars": 40,
+      "destructionPercentage": 92
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210412T201835.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png"
+      },
+      "clanLevel": 8,
+      "attacks": 36,
+      "stars": 49,
+      "destructionPercentage": 85.6,
+      "expEarned": 171
+    },
+    "opponent": {
+      "tag": "#2LL2LLJQC",
+      "name": "Lakers NBA",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/jin90OsoVtKxirkfbly0kiFg17kVbpAsJ1VfbkJyktM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/jin90OsoVtKxirkfbly0kiFg17kVbpAsJ1VfbkJyktM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/jin90OsoVtKxirkfbly0kiFg17kVbpAsJ1VfbkJyktM.png"
+      },
+      "clanLevel": 4,
+      "stars": 48,
+      "destructionPercentage": 88.2
+    }
+  },
+  {
+    "result": null,
+    "endTime": "20210409T102933.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 1,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png"
+      },
+      "clanLevel": 8,
+      "attacks": 99,
+      "stars": 187,
+      "destructionPercentage": 410.73334,
+      "expEarned": 0
+    },
+    "opponent": {
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      },
+      "clanLevel": 0,
+      "stars": 180,
+      "destructionPercentage": 0
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210401T064218.000Z",
+    "teamSize": 25,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png"
+      },
+      "clanLevel": 8,
+      "attacks": 4,
+      "stars": 12,
+      "destructionPercentage": 16,
+      "expEarned": 0
+    },
+    "opponent": {
+      "tag": "#2LP2VLCUP",
+      "name": "LES AVENGERS",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/0WMkQ_hYCyzE0CTW9-f3rlTMUYaQz7RssupP5isxsV0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/0WMkQ_hYCyzE0CTW9-f3rlTMUYaQz7RssupP5isxsV0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/0WMkQ_hYCyzE0CTW9-f3rlTMUYaQz7RssupP5isxsV0.png"
+      },
+      "clanLevel": 1,
+      "stars": 6,
+      "destructionPercentage": 8
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210331T212009.000Z",
+    "teamSize": 25,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png"
+      },
+      "clanLevel": 8,
+      "attacks": 36,
+      "stars": 66,
+      "destructionPercentage": 93.08,
+      "expEarned": 195
+    },
+    "opponent": {
+      "tag": "#VY8YC2CR",
+      "name": "KURD POWER 1",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/CCG3hHvoSuT-JMh33UJ0AesXMnWam4nxKAgzCosZILM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/CCG3hHvoSuT-JMh33UJ0AesXMnWam4nxKAgzCosZILM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/CCG3hHvoSuT-JMh33UJ0AesXMnWam4nxKAgzCosZILM.png"
+      },
+      "clanLevel": 7,
+      "stars": 1,
+      "destructionPercentage": 2.12
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20210329T210603.000Z",
+    "teamSize": 25,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png"
+      },
+      "clanLevel": 8,
+      "attacks": 39,
+      "stars": 57,
+      "destructionPercentage": 80.12,
+      "expEarned": 124
+    },
+    "opponent": {
+      "tag": "#22PV8C2GY",
+      "name": "ХОМА",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
+      },
+      "clanLevel": 9,
+      "stars": 59,
+      "destructionPercentage": 89.92
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20210325T175732.000Z",
+    "teamSize": 25,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png"
+      },
+      "clanLevel": 8,
+      "attacks": 37,
+      "stars": 55,
+      "destructionPercentage": 83.2,
+      "expEarned": 131
+    },
+    "opponent": {
+      "tag": "#2YPV8R9YJ",
+      "name": "Empty King VN",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/YM9o6BsRdE5jyJCfuOsIj6SsIvrszd70gQQV7JTzl6E.png"
+      },
+      "clanLevel": 5,
+      "stars": 64,
+      "destructionPercentage": 89.6
+    }
+  },
+  {
+    "result": "lose",
+    "endTime": "20210321T183740.000Z",
+    "teamSize": 20,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png"
+      },
+      "clanLevel": 8,
+      "attacks": 27,
+      "stars": 49,
+      "destructionPercentage": 84.25,
+      "expEarned": 112
+    },
+    "opponent": {
+      "tag": "#2YUVGV0GG",
+      "name": "REQ N GOO",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/FuMeckUziRYC8Up3arjlcqydsohbMHrMj8vrAnjoRzQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/FuMeckUziRYC8Up3arjlcqydsohbMHrMj8vrAnjoRzQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/FuMeckUziRYC8Up3arjlcqydsohbMHrMj8vrAnjoRzQ.png"
+      },
+      "clanLevel": 3,
+      "stars": 59,
+      "destructionPercentage": 98.7
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210309T134215.000Z",
+    "teamSize": 15,
+    "attacksPerMember": 1,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png"
+      },
+      "clanLevel": 8,
+      "attacks": 94,
+      "stars": 231,
+      "destructionPercentage": 451.93332,
+      "expEarned": 0
+    },
+    "opponent": {
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      },
+      "clanLevel": 0,
+      "stars": 121,
+      "destructionPercentage": 0
+    }
+  },
+  {
+    "result": "win",
+    "endTime": "20210209T135241.000Z",
+    "teamSize": 30,
+    "attacksPerMember": 1,
+    "battleModifier": "none",
+    "clan": {
+      "tag": "#9028Y2YG",
+      "name": "fol'autosport",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/mw3LMF7azZhRj1kBCG1nCKVaOPRwW2V0K-OaCU2hmyU.png"
+      },
+      "clanLevel": 8,
+      "attacks": 164,
+      "stars": 353,
+      "destructionPercentage": 382.73334,
+      "expEarned": 0
+    },
+    "opponent": {
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      },
+      "clanLevel": 0,
+      "stars": 203,
+      "destructionPercentage": 0
+    }
+  }
+]

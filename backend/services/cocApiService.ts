@@ -47,3 +47,37 @@ export async function getClanMembers(clanTag: string) {
     }
 }
 
+export async function getCapitalRaidSeasons(clanTag: string) {
+    try {
+        const response = await axiosInstance.get(`/clans/${encodeURIComponent(clanTag)}/capitalraidseasons`);
+        return response.data.items;
+    }
+    catch (error: any) {
+        return handleApiError(error);
+    }
+}
+
+export async function getCurrentWar(clanTag: string) {
+    try {
+        const response = await axiosInstance.get(`/clans/${encodeURIComponent(clanTag)}/currentwar`);
+        return response.data;
+    }
+    catch (error: any) {
+        return handleApiError(error);
+    }
+}
+
+export async function getWarLog(clanTag: string) {
+    try {
+        const response = await axiosInstance.get(`/clans/${encodeURIComponent(clanTag)}/warlog`);
+        return response.data.items;
+    }
+    catch (error: any) {
+        return handleApiError(error);
+    }
+}
+
+export function isValidClanTag(clanTag: string): boolean {
+    return clanTag.startsWith('#') && clanTag.length > 1;
+}
+

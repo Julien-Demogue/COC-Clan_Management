@@ -1,0 +1,179 @@
+{
+  "state": "preparation",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "preparationStartTime": "20250411T132636.000Z",
+  "startTime": "20250412T122636.000Z",
+  "endTime": "20250413T122636.000Z",
+  "clan": {
+    "tag": "#9028Y2YG",
+    "name": "fol'autosport",
+    "badgeUrls": {
+      "small": "https://api-assets.clashofclans.com/badges/70/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+      "large": "https://api-assets.clashofclans.com/badges/512/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png",
+      "medium": "https://api-assets.clashofclans.com/badges/200/2wcCrIMA8wkwqgGM43sfr8ZAoOt5PWMmW_fLKsWK4Fo.png"
+    },
+    "clanLevel": 20,
+    "attacks": 0,
+    "stars": 0,
+    "destructionPercentage": 0,
+    "members": [
+      {
+        "tag": "#28Y8QUY88",
+        "name": "[&]Blackers[&]",
+        "townhallLevel": 14,
+        "mapPosition": 3,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#Y92JPYJ0Q",
+        "name": "rico517",
+        "townhallLevel": 12,
+        "mapPosition": 10,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#28ULCY0RG",
+        "name": "GULDANE971",
+        "townhallLevel": 13,
+        "mapPosition": 8,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#QGVPY0Q0",
+        "name": "fire destructor",
+        "townhallLevel": 14,
+        "mapPosition": 4,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2LL0CCCCY",
+        "name": "Fianeso782",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#QGJJLLRQ9",
+        "name": "DraGonS",
+        "townhallLevel": 14,
+        "mapPosition": 6,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8V0V0UUC0",
+        "name": "Sphixia",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YUGQYLVC9",
+        "name": "alpacino78",
+        "townhallLevel": 14,
+        "mapPosition": 7,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#Y2UC288U",
+        "name": "juju56",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#20J80PG2J",
+        "name": "Dawa",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "opponentAttacks": 0
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#RPGV8PL9",
+    "name": "SL NowTy BoYz",
+    "badgeUrls": {
+      "small": "https://api-assets.clashofclans.com/badges/70/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+      "large": "https://api-assets.clashofclans.com/badges/512/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+      "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
+    },
+    "clanLevel": 18,
+    "attacks": 0,
+    "stars": 0,
+    "destructionPercentage": 0,
+    "members": [
+      {
+        "tag": "#PGC09VQQ8",
+        "name": "menosh",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PJ8RJCJGU",
+        "name": "IG:-01_w0lf",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PJJGUQUVY",
+        "name": "I f F u",
+        "townhallLevel": 13,
+        "mapPosition": 10,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#988QYLLQ9",
+        "name": "IFFU",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9CUPYY0L9",
+        "name": "® JACK SPARROW",
+        "townhallLevel": 14,
+        "mapPosition": 6,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#P9PGQ92QU",
+        "name": "KING BASIT",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YPLYJJGRY",
+        "name": "A A N I S H - 2",
+        "townhallLevel": 14,
+        "mapPosition": 3,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PLG88U9RV",
+        "name": "ᴋɪᴛᴛʏ_ʜᴇᴀʀᴛ",
+        "townhallLevel": 14,
+        "mapPosition": 7,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#QYRR9802J",
+        "name": "INSTA: kn_y4z",
+        "townhallLevel": 13,
+        "mapPosition": 8,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2RU8GJ989",
+        "name": "Destro",
+        "townhallLevel": 14,
+        "mapPosition": 4,
+        "opponentAttacks": 0
+      }
+    ]
+  }
+}
