@@ -20,7 +20,7 @@ import { IClan } from '@/entities/IClan';
 import router from '@/router';
 import { saveToStorage } from '@/services/storageService';
 
-const clanTag = ref('');
+const clanTag = ref('9028Y2YG');
 const errorMessage = ref('');
 const isLoading = ref(false);
 

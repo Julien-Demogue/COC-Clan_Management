@@ -1,12 +1,12 @@
 import type { ICapitalLeague } from "./ICapitalLeague";
-import type { IClanMember } from "./IClanMember";
 import type { IWarLeague } from "./IWarLeague";
 import type { ILanguage } from "./ILanguage";
 import type { ILabel } from "./ILabel";
 import type { ILocation } from "./ILocation";
 import type { IClanCapital } from "./IClanCapital";
+import type { IClanMember } from "./IClanMember";
 
-export interface IClan { 
+export interface IClan {
     warLeague: IWarLeague;
     capitalLeague: ICapitalLeague;
     memberList: IClanMember[];

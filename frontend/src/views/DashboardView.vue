@@ -34,10 +34,14 @@
             <div
                 class="bg-primary text-secondary rounded-lg shadow-md flex flex-col items-center justify-start p-6 min-h-[150px]">
                 <h1 class="text-2xl font-bold mb-4">Capital</h1>
+                <p class="text-xl font-bold">Capital Level : {{ capitalLevel }}</p>
             </div>
             <div
                 class="bg-primary text-secondary rounded-lg shadow-md flex flex-col items-center justify-start p-6 min-h-[150px]">
                 <h1 class="text-2xl font-bold mb-4">Donations</h1>
+                <p class="text-xl font-bold">Best donor : {{ bestDonor }}</p>
+                <p class="text-xl font-bold">Stingiest donor : {{ stingiestDonor }}</p>
+                <p class="text-xl font-bold">Average donations : {{ averageDonations }}</p>
             </div>
         </div>
     </div>
@@ -47,7 +51,9 @@
 import Navbar from '@/components/Navbar.vue';
 import { IClan } from '@/entities/IClan';
 import { IClanMember } from '@/entities/IClanMember';
+import { IRoleDistribution } from '@/entities/IRoleDistribution';
 import router from '@/router';
+import { computeActiveMembersRate, computeAverageDonations, computeRoleDistribution, computeWinrate, getBestDonor, getStingiestDonnor } from '@/services/clanService';
 import { getFromStorage } from '@/services/storageService';
 import { onMounted, ref } from 'vue';
 
@@ -62,6 +68,12 @@ const coleaderAmount = ref(0);
 const elderAmount = ref(0);
 const memberAmount = ref(0);
 
+const capitalLevel = ref(0);
+
+const bestDonor = ref('');
+const stingiestDonor = ref('');
+const averageDonations = ref(0);
+
 onMounted(() => {
     const clanData: IClan = getFromStorage('clanData');
     if (!clanData) {
@@ -69,77 +81,27 @@ onMounted(() => {
         router.push('/');
     }
 
+    // Winrate
     winrate.value = computeWinrate(clanData);
     totalWars.value = clanData.warLosses + clanData.warWins + clanData.warTies;
 
-    activeMembersRate.value = computeActiveMembersRate(clanData);
+    // Active members
+    activeMembersRate.value = computeActiveMembersRate(clanData.memberList);
     members.value = clanData.members;
 
-    computeRoleDistribution(clanData);
+    // Role distribution
+    const roles: IRoleDistribution = computeRoleDistribution(clanData.memberList);
+    leader.value = roles.leaderName;
+    coleaderAmount.value = roles.coleaderAmount;
+    elderAmount.value = roles.elderAmount;
+    memberAmount.value = roles.memberAmount;
+
+    // Capital
+    capitalLevel.value = clanData.clanCapital.capitalHallLevel;
+
+    // Donations
+    bestDonor.value = getBestDonor(clanData.memberList)?.name ?? '';
+    stingiestDonor.value = getStingiestDonnor(clanData.memberList)?.name ?? '';
+    averageDonations.value = computeAverageDonations(clanData.memberList);
 })
-
-function computeWinrate(clanData: IClan): number {
-    const totalWars = clanData.warLosses + clanData.warWins + clanData.warTies;
-    if (totalWars === 0) {
-        return 0;
-    }
-    return parseFloat(((clanData.warWins / totalWars) * 100).toFixed(1));
-}
-
-function computeActiveMembersRate(clanData: IClan): number {
-    const totalMembers = clanData.members;
-    if (totalMembers === 0) {
-        return 0;
-    }
-
-    /*
-    Check if members are active based on their participations in clan's life looking at :
-    - donations
-    - 4 last wars participations
-    - last league participation
-    - last clan games participation
-    - 2 last raid weeks participations    
-    */
-    let activeMembers = 0;
-    clanData.memberList.forEach((member: IClanMember) => {
-        // TODO
-        const donations = member.donations;
-
-        if (donations > 0) {
-            activeMembers++;
-        }
-    });
-
-    return parseFloat(((activeMembers / totalMembers) * 100).toFixed(1));
-}
-
-function determineMVP(clanData: IClan): IClanMember|null {
-    // TODO
-    return null;
-}
-
-function computeRoleDistribution(clanData: IClan): void {
-    const totalMembers = clanData.members;
-    if (totalMembers === 0) {
-        return;
-    }
-
-    clanData.memberList.forEach((member: IClanMember) => {
-        switch (member.role) {
-            case 'leader':
-                leader.value = member.name;
-                break;
-            case 'coLeader':
-                coleaderAmount.value++;
-                break;
-            case 'admin':
-                elderAmount.value++;
-                break;
-            case 'member':
-                memberAmount.value++;
-                break;
-        }
-    });
-}
-
 </script>
