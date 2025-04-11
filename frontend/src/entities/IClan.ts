@@ -5,6 +5,7 @@ import type { ILabel } from "./ILabel";
 import type { ILocation } from "./ILocation";
 import type { IClanCapital } from "./IClanCapital";
 import type { IClanMember } from "./IClanMember";
+import type { IImageUrls } from "./IImageUrls";
 
 export interface IClan {
     warLeague: IWarLeague;
@@ -33,9 +34,5 @@ export interface IClan {
     members: number;
     description: string;
     clanCapital: IClanCapital;
-    badgeUrls: {
-        small: string;
-        large: string;
-        medium: string;
-    };
+    badgeUrls: IImageUrls;
 }

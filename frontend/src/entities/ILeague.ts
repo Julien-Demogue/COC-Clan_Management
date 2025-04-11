@@ -1,9 +1,7 @@
-export interface ILeague { 
+import type { IImageUrls } from "./IImageUrls";
+
+export interface ILeague {
     name: string;
     id: number;
-    iconUrls: {
-        small: string;
-        tiny: string;
-        medium: string;
-    };
+    iconUrls: IImageUrls
 }

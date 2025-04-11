@@ -1,8 +1,7 @@
-export interface ILabel { 
+import type { IImageUrls } from "./IImageUrls";
+
+export interface ILabel {
     name: string;
     id: number;
-    iconUrls: {
-        small: string;
-        medium: string;
-    };
+    iconUrls: IImageUrls;
 }
